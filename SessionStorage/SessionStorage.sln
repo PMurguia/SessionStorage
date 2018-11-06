@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8B1C3B5-34F8-4122-98B4-FAE3BA90644A}"
+	ProjectSection(SolutionItems) = preProject
+		app.js = app.js
+		SessionStorage.html = SessionStorage.html
+		SessionStorage2.html = SessionStorage2.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912F5469-987A-4D0E-8BB7-56F2AF98DDAD}
+	EndGlobalSection
+EndGlobal
